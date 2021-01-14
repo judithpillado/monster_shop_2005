@@ -1,6 +1,6 @@
 # Monster Shop: BE Mod 2 Week 4/5 Group Project
 
-## [Heroku Production Site](https://mod2-monster-shop.herokuapp.com/)
+## [Heroku Production Site](https://monster-shop-2005.herokuapp.com/)
 
 ## Project Team
 
